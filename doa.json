@@ -5,7 +5,17 @@
             {
                 "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
                 "translation": "Aku memohon perlindungan dengan Allah daripada syaitan yang direjam"
+            },
+            {
+                "arabic": "بِسْمِ اٌللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+                "translation": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Penyayang"
             }
+        ]
+    },
+    {
+        "id": 2,
+        "parts": [
+            
         ]
     }
 ]
